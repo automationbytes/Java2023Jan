@@ -1,0 +1,45 @@
+Variables
+--------
+
+Containers to store some data variables
+
+Datatypes
+---------
+
+Primitive data type
+Non Primitive data type - later
+
+Primitive data type -  8 types
+=============================
+starts wit small case letters 
+
+byte    - 1 byte - 8 bits - 2^8-> 256 store whole numbers ranges from -128 to 127 (0)
+short   - 2 bytes - 16 bits - 2^16 ->65536 -> -32768 to 32767
+int     - 4 bytes - 32 bits
+long    - 8 bytes - 64 bits
+float   - 4 bytes -> decimal numbers
+double  - 8 bytes -> decimal numbers
+boolean  - 1 bit   -> true/false
+char     - 2 bytes -> single char
+
+================================================
+
+Operators
+-------
+
+To perform any operations on variables/values
+
+Arithmetic Operators
+Assignment Operators
+Comparison Operators
+Logical Operators
+Bitwise Operators
+Unary Operators
+
+
+Conditional Statements
+----------------------
+
+if
+switch
+
