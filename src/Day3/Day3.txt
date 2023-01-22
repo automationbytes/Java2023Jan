@@ -1,0 +1,27 @@
+array
+-----
+
+Array refers to datastructure 
+same datatype (homogeneous elements)
+insertion order (index)
+dynamic access is possible
+storing duplicate value is possible
+
+Adv
+---
+easy to store and manipulate large datasets
+random access possible
+
+Disadv
+-----
+Array are fixed in size (increase/decrease)
+it can store only single datatype
+
+
+=====================================
+
+String
+------
+
+Literal - String pool memory
+New Keyword way - Java heap memory
