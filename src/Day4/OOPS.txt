@@ -1,0 +1,48 @@
+OOPs - Object oriented Programming structure
+
+Procedural way
+Object oriented way - creating class, objects (data members and methods)
+
+
+Advantages
+----------
+
+1) Clear structure
+2) Increase in readability
+3) Reusability
+4) Maintainability
+5) Faster and easier to execute
+
+
+Class  
+
+Student
+//attributes -datamembers(variables) - unique (state/identity)
+name
+mobile
+mailid
+
+//methods - common (behavior)
+toread()
+towrite()
+
+Objects
+Blueprint of the class
+
+
+Inheritance
+Deriving the properties of attributes and methods from one class to another
+
+parent (superclass) - class being inherited
+child (subclass) - class that inherits other class
+
+we will be using extend keywords to extend the class
+Adv:
+Code reusability
+
+Single
+Multi level
+Hierarchial
+Hybrid (combination of more than one)
+multiple (this is not possible)
+
