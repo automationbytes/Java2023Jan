@@ -1,0 +1,95 @@
+Polymorphism
+-----------
+
+Poly - many
+morph - forms
+
+Same method gonna act differently in diff situation
+
+Overloading - Compile time polymorphism - early binding
+Overriding - run time polymorphism - late binding
+
+Overloading - Same method name wit diff parameters
+Readability
+Reusability
+
+Rules:
+No of arguments always different
+Atleast need to maintain change of order of arguments
+Access modifiers
+Within the same class
+
+==========================
+Static and final methods cant be overloaded
+Private methods cant be overloaded
+Java doesnt support Operator overloading -( c++)
+
+
+===========================================================
+Overriding
+----------
+runtime polymorphism - late binding
+
+parent
+
+partner - xyz
+house
+
+child  - abc
+
+
+Rules
+-----
+Same Method signature (name, parameters, return type)
+Access modifiers - 
+We cant override static and final methods (also private methods)
+Constructors also cant be overrided
+
+Abstract class
+Abstract methods and non Abstract methods
+
+interfaces - 100% abstraction
+
+
+mobile
+
+call
+sms
+
+
+Samsung - Andriod
+Apple - ios
+
+
+========================================
+
+Access modifiers
+
+public 
+protected
+private
+default
+
+============================================
+
+
+Throwable class
+
+Error - Unrecoverable
+
+Exceptions - recoverable
+
+Compile time exception - Checked exceptions
+Runtime exceptions _ unchecked exceptions
+
+
+try
+
+catch
+
+finally
+
+
+throw
+
+throws

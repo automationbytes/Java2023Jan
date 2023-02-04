@@ -1,0 +1,19 @@
+OOPS
+	Inheritance
+	Abstraction
+	Polymorphism
+	Interface
+	Encapsulation
+
+Overloading vs Overriding
+Abstract class vs interface
+Can we create multiple interfaces
+Can interface have method body -default, static
+final vs finally vs finalize
+final vs static
+checked vs unchecked
+error vs exception
+try catch finally
+throw vs throws
+
+Access modifiers - know the table
