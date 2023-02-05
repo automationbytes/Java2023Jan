@@ -1,0 +1,38 @@
+Limitations of Array
+---------------------
+1) Arrays are fixed in size. We cant increase size in runtime
+2) Arrays only store homogenous datatype
+3) Any readymade methods for sorting,adding,removing
+
+Collections
+-----------
+Collection can store any objects. Growable in nature
+Non primitive datatype-
+homo (same) and hetrogenous (different) data
+All readymade methods for adding, sorting, searching
+
+
+
+Collection
+
+List
+----	
+
+1) List can store elements in sequential order
+2) Insertion order willbe maintained
+3) Duplicates are allowed
+4) Null insertion can be possible
+5) Same and diff data type
+
+Arraylist
+
+6) Default size is 10
+7) 6+ = (oldcapacity * 1.5) + 1
+
+
+Set
+===
+Set will not store duplicates
+Set will not maintain order
+Only one null insertion
+rest all will be similar to listt
