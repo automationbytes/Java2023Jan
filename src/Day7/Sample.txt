@@ -1,0 +1,62 @@
+Files
+-----
+
+Read, Write, Update and delete
+
+io.File
+
+Stream
+------
+Sequence of data stream
+
+Byte Stream 
+	Input Stream class
+	Output Stream class
+
+Character Stream
+	Reader class
+	Writer class
+	
+
+	
+Regex - util.regex
+-----
+Regex - Regular expression
+
+Used for text matching
+
+String manipulation
+
+
+=========================================
+
+check whether its valid email
+
+te@gma.com
+
+
+==================================
+Factorial of number
+
+5 -? 5*4*3*2*1 = 120
+
+Reverse a number 
+logic - while loop
+%
+*10
+/10
+
+Check whether the numbers are palindarome 
+note: convertion to string is not possible
+=======================
+
+12321 -  12321
+
+add the count the numbers
+1234 -> 10
+print the count of number
+1234-> 4
+
+----------------------
+
+Swapping 2 numbers without 3rd variable
