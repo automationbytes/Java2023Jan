@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="0" name="Suite">
+  <test thread-count="0" name="Test">
+    <classes>
+      <class name="com.Automation.TestNGDemo.FirstTestNg"/>
+      <class name="com.Automation.TestNGDemo.Annotations_Eg">
+      <methods>
+      <exclude name = "test1">
+      </exclude>
+      </methods>
+      
+      </class>
+  
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
