@@ -6,7 +6,7 @@ import org.testng.asserts.SoftAssert;
 
 public class Assert_eg {
 
-	@Test(groups= {"Regression"})
+	@Test(alwaysRun = true)
 	public void Assert_Eg() {
 		String a = "Hello";
 		String b = "World";

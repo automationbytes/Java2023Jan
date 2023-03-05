@@ -3,12 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.Automation.TestNGDemo.Assert_eg">
+      <class name="com.Automation.TestNGDemo.Priority_Eg">
         <methods>
-          <include name="anyname_DependsOn_Eg"/>
-          <include name="Assert_Eg"/>
+          <include name="fifth"/>
         </methods>
-      </class> <!-- com.Automation.TestNGDemo.Assert_eg -->
+      </class> <!-- com.Automation.TestNGDemo.Priority_Eg -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
